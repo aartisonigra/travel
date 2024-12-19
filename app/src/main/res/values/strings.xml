@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">travel</string>
+    <string name="usename">Code Makers</string>
+    <string name="welcome_back">Welcome back !</string>
+    <string name="description">This 2 bed / 1 bath home boasts an enormous, \n
+        open-living plan, accented by striking \n
+        architectural features and high-end finishes. \n
+        Feel inspired by open sight lines that\n
+        embrace the outdoors, crowned by stunning offered ceilings.
+    </string>
+</resources>
